@@ -1,4 +1,4 @@
-# 👋 Hey, I'm SAMxENGINEER
+# 👋 Hey, I'm Sameer Chavan (SAMxENGINEER)
 
 > 🧠 AI Developer in Training | ML • DL • RAG Systems  
 > Currently exploring how to build intelligent and efficient systems that learn, reason, and interact.
