@@ -1,77 +1,87 @@
-<h1 align="center"><b>👋 Hey, I'm Sameer Chavan (SAMxENGINEER)</b></h1>
-
+<h1 align="center"><b>👋 Hi, I'm Sameer Chavan (SAMxENGINEER)</b></h1>
 <p align="center">
-AI Enthusiast • Deep Learning Learner • Full Stack Developer  
+AI & ML Learner • Deep Learning Enthusiast • Full Stack Developer  
 <br>
-<a href="https://samxengineer-docs.onrender.com" target="_blank">🌐 Portfolio & Documentation Hub</a> • 
-<a href="mailto:chavansameer930@gmail.com">📧 Email</a> • 
-<a href="https://www.linkedin.com/in/sameer-chavan-6ba48b2b7" target="_blank">💼 LinkedIn</a>
+<a href="mailto:chavansameer930@gmail.com">📧 chavansameer930@gmail.com</a> • 
+<a href="https://www.linkedin.com/in/sameer-chavan-6ba48b2b7" target="_blank">💼 LinkedIn</a> • 
+<a href="https://samxengineer-docs.onrender.com" target="_blank">🌐 Documentation Hub</a>
 </p>
 
 ---
 
 ### 🧠 About Me
-I’m a **student engineer and AI learner** driven by curiosity and creativity.  
-I explore everything from **deep learning and computer vision** to **intelligent systems and RAG apps** — always trying to connect theory with real-world use cases.  
-
-> My goal is simple: keep learning, keep building, and understand AI at its core.
+I’m an **AI-driven learner and developer** passionate about building intelligent systems, experimenting with new ideas, and documenting my growth.  
+Currently exploring **machine learning, deep learning, and AI-driven applications** that connect data, logic, and creativity.
 
 ---
 
-### ⚡ What I’m Currently Exploring
-- Deep Learning & CNN Architectures  
-- RAG Systems and LangChain Framework  
-- Model Optimization and Lightweight Deployments  
-- AI for Healthcare & Imaging  
-- Experimentation and Self-Learning Workflows
+### ⚙️ Core Technologies
 
----
+#### 🧩 Programming & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
 
-### 🚀 Active Projects
+#### 🤖 Machine Learning & Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
+</p>
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🧠 **BrainTumor AI** | MRI-based brain tumor classification and segmentation pipeline. | TensorFlow, OpenCV, Streamlit |
-| 🧩 **CreationGround** | My personal ML playground for experiments, testing, and concept validation. | Python, Scikit-learn, NumPy |
-| 📘 **ExamPrompt AI** | Exam-prep assistant powered by LangChain, Flask, and RAG architecture. | LangChain, Flask, Groq |
-| 🖼️ **ImgTechAI** | Real-time image processing web app with interactive visual transformations. | Streamlit, OpenCV, NumPy |
-| 🫁 **Lung Cancer AI** | Early-stage detection and classification of lung cancer using deep learning. | PyTorch, TensorFlow |
-| 🩺 **MedAI** | A complete medical imaging suite for classification and segmentation. | Flask, TensorFlow, PyTorch |
+#### 🧠 Generative AI & RAG Systems
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-FF3C00?style=flat&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+</p>
 
----
+#### 🧰 Development & Tools
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
-### 💡 Why I Document Everything
-I believe learning is exponential when it’s recorded.  
-My documentation site isn’t just a portfolio — it’s my **digital learning archive**, where I track experiments, failures, insights, and progress.  
-
-🗂️ [View My Docs →](https://samxengineer-docs.onrender.com)
-
----
-
-### 🧩 Skills Snapshot
-**Languages:** Python, JavaScript, HTML/CSS  
-**Frameworks:** Flask, Streamlit, LangChain, TensorFlow, PyTorch  
-**Core Areas:** Machine Learning, Deep Learning, Computer Vision, Data Science  
-**Tools:** Git, Docker, Firebase, OpenAI/Groq APIs
-
----
-
-### 📫 Let’s Connect
-📧 [chavansameer930@gmail.com](mailto:chavansameer930@gmail.com)  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/sameer-chavan-6ba48b2b7)  
-🌐 [Docs & Portfolio](https://samxengineer-docs.onrender.com)
-
----
-
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samxengineer&show_icons=true&theme=default&hide_border=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samxengineer&theme=default&hide_border=true" width="49%">
+#### 🧮 Data Science & Analysis
+<p>
+  <img src="https://img.shields.io/badge/EDA-006699?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-FFB100?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-333333?style=flat" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-228B22?style=flat" />
 </p>
 
 ---
 
+### 📘 Learning & Interests
+- 🧠 Deep Learning for Medical Imaging  
+- 🗂️ Vector Databases and RAG Pipelines  
+- 🗣️ NLP Applications and LLM Integrations  
+- 🧮 Optimized Model Deployment  
+- 📈 Data Analytics and Visualization  
+
+---
+
+### 📫 Get in Touch
+📧 [Email](mailto:chavansameer930@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/sameer-chavan-6ba48b2b7)  
+🌐 [Docs & Portfolio](https://samxengineer-docs.onrender.com)
+
+---
+
 <p align="center">
-  🧩 “Keep learning. Keep building. Every experiment adds to the bigger picture.”  
-  <br>— <b>Sameer Chavan</b>
+  <b>“Learning is my version of progress.”</b><br>
+  — Sameer Chavan (SAMxENGINEER)
 </p>
